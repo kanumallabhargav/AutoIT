@@ -1,0 +1,7 @@
+16:27:51.762 [main] INFO  basicWorkflow.FileUpload - clicked on choose files button
+16:27:53.768 [main] INFO  basicWorkflow.FileUpload - Png file located
+16:27:56.120 [main] INFO  basicWorkflow.FileUpload - downloaded button clicked
+16:30:33.191 [main] INFO  basicWorkflow.FileUpload - clicked on choose files button
+16:30:35.197 [main] INFO  basicWorkflow.FileUpload - Png file located
+16:30:38.091 [main] INFO  basicWorkflow.FileUpload - downloaded button clicked
+16:30:43.092 [main] INFO  basicWorkflow.FileUpload - 5 second wait completed

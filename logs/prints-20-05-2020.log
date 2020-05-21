@@ -1,0 +1,7 @@
+20:32:37.699 [main] INFO  basicWorkflow.FileUpload - clicked on choose files button
+20:32:39.708 [main] INFO  basicWorkflow.FileUpload - Png file located
+20:34:55.875 [main] INFO  basicWorkflow.FileUpload - clicked on choose files button
+20:34:57.886 [main] INFO  basicWorkflow.FileUpload - Png file located
+20:35:01.404 [main] INFO  basicWorkflow.FileUpload - ico file downloaded
+20:52:11.464 [main] INFO  basicWorkflow.FileUpload - clicked on choose files button
+20:52:13.757 [main] INFO  basicWorkflow.FileUpload - Png file located
